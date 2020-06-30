@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:       JWP Contact List
- * Plugin URI:        https://github.com/tanmayjay/wordpress/tree/master/12-REST-API/jwp-contact-list
+ * Plugin URI:        https://github.com/tanmayjay/jwp-contact-list
  * Description:       A plugin to store contacts by creating a admin menu and contain REST API CRUD services.
  * Version:           1.1.2
  * Requires at least: 5.2

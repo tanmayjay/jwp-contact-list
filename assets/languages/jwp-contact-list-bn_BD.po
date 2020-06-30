@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jwp-contact-list\n"
-"POT-Creation-Date: 2020-06-30 19:15+0600\n"
-"PO-Revision-Date: 2020-06-30 19:56+0600\n"
+"POT-Creation-Date: 2020-06-30 23:19+0600\n"
+"PO-Revision-Date: 2020-06-30 23:25+0600\n"
 "Last-Translator: \n"
 "Language-Team: Tanmay Kirtania ( jktanmay@gmail.com )\n"
 "Language: bn_BD\n"
@@ -111,6 +111,14 @@ msgstr "পরিচিতির সংখ্যা"
 #: includes/Admin/Settings.php:41
 msgid "Select Order"
 msgstr "ক্রম নির্বাচন করুন"
+
+#: includes/Admin/Settings.php:48
+msgid "Ascending"
+msgstr "ঊর্ধ্বগামী"
+
+#: includes/Admin/Settings.php:49
+msgid "Descending"
+msgstr "অধোগামী"
 
 #: includes/Admin/Settings.php:128
 msgid "Settings Saved"

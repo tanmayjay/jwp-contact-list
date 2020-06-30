@@ -45,8 +45,8 @@ class Settings {
             [ 
                 'label_for' => 'jwp_cl_order',
                 'orders'    => [
-                    'Ascending'  => 'asc', 
-                    'Descending' => 'desc',
+                    __( 'Ascending', JWP_CL_DOMAIN )  => 'asc', 
+                    __( 'Descending', JWP_CL_DOMAIN ) => 'desc',
                 ]  
             ]
         );
