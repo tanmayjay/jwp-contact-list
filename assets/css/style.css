@@ -1,0 +1,16 @@
+.jcl-label {
+    color: rgb(56, 56, 56);
+    font-size: 2rem;
+}
+
+.single-contact {
+    color: rgb(237, 127, 100);
+    background: rgb(224, 223, 223);
+    display: inline;
+    font-size: 2rem;
+}
+
+.single-contact:hover {
+    color: darkcyan;
+    background: rgb(224, 223, 223);
+}

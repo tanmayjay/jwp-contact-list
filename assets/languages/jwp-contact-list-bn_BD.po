@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jwp-contact-list\n"
+"POT-Creation-Date: 2020-06-30 19:15+0600\n"
+"PO-Revision-Date: 2020-06-30 19:56+0600\n"
+"Last-Translator: \n"
+"Language-Team: Tanmay Kirtania ( jktanmay@gmail.com )\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+
+#: includes/API/Contacts.php:54 includes/API/Contacts.php:344
+msgid "Unique identifier for the object"
+msgstr "অবজেক্টের অনন্য সনাক্তকারী"
+
+#: includes/API/Contacts.php:350
+msgid "Name of the contact"
+msgstr "যোগাযোগের নাম"
+
+#: includes/API/Contacts.php:359
+msgid "Address of the contact"
+msgstr "যোগাযোগের ঠিকানা"
+
+#: includes/API/Contacts.php:367
+msgid "Phone number of the contact"
+msgstr "যোগাযোগের ফোন নম্বর"
+
+#: includes/API/Contacts.php:376
+msgid "Email address of the contact"
+msgstr "যোগাযোগের ইমেইল"
+
+#: includes/API/Contacts.php:385
+msgid "Publishig date of the object in the site's time"
+msgstr "সাইটের সময়ে অবজেক্টের প্রকাশের তারিখ"
+
+#: includes/Admin/Contacts.php:77 includes/functions.php:14
+msgid "Name cannot be empty"
+msgstr "নাম খালি থাকতে পারবে না"
+
+#: includes/Admin/Contacts.php:81
+msgid "Phone cannot be empty"
+msgstr "ফোন নম্বর খালি থাকতে পারবে না"
+
+#: includes/Admin/List_Contact.php:30 includes/Admin/views/contact-edit.php:7
+#: includes/Admin/views/contact-new.php:7
+#: includes/Admin/views/contact-view.php:6
+msgid "Name"
+msgstr "নাম"
+
+#: includes/Admin/List_Contact.php:31 includes/Admin/views/contact-edit.php:20
+#: includes/Admin/views/contact-new.php:20
+#: includes/Admin/views/contact-view.php:14
+msgid "Phone"
+msgstr "ফোন নম্বর"
+
+#: includes/Admin/List_Contact.php:32 includes/Admin/views/contact-edit.php:33
+#: includes/Admin/views/contact-new.php:33
+#: includes/Admin/views/contact-view.php:22
+msgid "Email"
+msgstr "ইমেইল"
+
+#: includes/Admin/List_Contact.php:33 includes/Admin/views/contact-edit.php:41
+#: includes/Admin/views/contact-new.php:41
+#: includes/Admin/views/contact-view.php:30
+msgid "Address"
+msgstr "ঠিকানা"
+
+#: includes/Admin/List_Contact.php:34
+msgid "Date"
+msgstr "তারিখ"
+
+#: includes/Admin/List_Contact.php:57 includes/Admin/List_Contact.php:58
+msgid "Edit"
+msgstr "সম্পাদন করুন"
+
+#: includes/Admin/List_Contact.php:64 includes/Admin/List_Contact.php:65
+msgid "Delete"
+msgstr "মুছে ফেলুন"
+
+#: includes/Admin/Menu.php:44 includes/Admin/Menu.php:54
+msgid "JWP Contact List"
+msgstr "JWP যোগাযোগ তালিকা"
+
+#: includes/Admin/Menu.php:45
+msgid "Contacts"
+msgstr "পরিচিতি"
+
+#: includes/Admin/Menu.php:55
+msgid "View Contacts"
+msgstr "পরিচিতি দেখুন"
+
+#: includes/Admin/Menu.php:63 includes/Admin/Menu.php:64
+msgid "Settings"
+msgstr "সেটিংস"
+
+#: includes/Admin/Settings.php:21
+msgid "Contact List Settings"
+msgstr "যোগাযোগ তালিকার সেটিংস"
+
+#: includes/Admin/Settings.php:28
+msgid "Number of Contacts"
+msgstr "পরিচিতির সংখ্যা"
+
+#: includes/Admin/Settings.php:41
+msgid "Select Order"
+msgstr "ক্রম নির্বাচন করুন"
+
+#: includes/Admin/Settings.php:128
+msgid "Settings Saved"
+msgstr "সেটিংস সংরক্ষণ করা হয়েছে"
+
+#: includes/Admin/Settings.php:141
+msgid "Save Settings"
+msgstr "সেটিংস সংরক্ষণ করুন"
+
+#: includes/Admin/views/contact-edit.php:2
+msgid "Edit Contact"
+msgstr "পরিচিতি সম্পাদনা করুন"
+
+#: includes/Admin/views/contact-edit.php:51
+msgid "Update Contact"
+msgstr "পরিচিতি হালনাগাদ করুন"
+
+#: includes/Admin/views/contact-list.php:3
+msgid "Contact List"
+msgstr "যোগাযোগ তালিকা"
+
+#: includes/Admin/views/contact-list.php:5
+msgid "Add New"
+msgstr "নতুন যোগ করুন"
+
+#: includes/Admin/views/contact-list.php:10
+msgid "Contact Updated Successfully"
+msgstr "যোগাযোগ সফলভাবে আপডেট করা হয়েছে"
+
+#: includes/Admin/views/contact-list.php:15
+msgid "Contact Deleted Successfully"
+msgstr "যোগাযোগ সফলভাবে মুছে ফেলা হয়েছে"
+
+#: includes/Admin/views/contact-list.php:20
+msgid "Contact Inserted Successfully"
+msgstr "যোগাযোগ সফলভাবে যোগ করা হয়েছে"
+
+#: includes/Admin/views/contact-new.php:2
+msgid "New Contact"
+msgstr "নতুন পরিচিতি"
+
+#: includes/Admin/views/contact-new.php:50
+msgid "Add Contact"
+msgstr "পরিচিতি যোগ করুন"
+
+#: includes/Admin/views/contact-view.php:2
+msgid "View Contact"
+msgstr "পরিচিতি দেখুন"
+
+#: includes/functions.php:15
+msgid "Phone number cannot be empty"
+msgstr "ফোন নম্বর খালি থাকতে পারবে না"
+
+#: includes/functions.php:50
+msgid "Failed to update data"
+msgstr "তথ্য হালনাগাদ সম্ভব হয়নি"
+
+#: includes/functions.php:72
+msgid "Failed to insert data"
+msgstr "তথ্য যোগ করা সম্ভব হয়নি"

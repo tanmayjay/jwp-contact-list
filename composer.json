@@ -1,0 +1,20 @@
+{
+    "name": "jay/jwp-contact-list",
+    "description": "A plugin to store addresses by creating a admin menu.",
+    "type": "wordpress-plugin",
+    "license": "GPL v2",
+    "authors": [
+        {
+            "name": "Tanmay Kirtania",
+            "email": "jktanmay@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JWP\\JCL\\": "includes/"
+        },
+        "files": [ "includes/functions.php" ]
+    }
+}
